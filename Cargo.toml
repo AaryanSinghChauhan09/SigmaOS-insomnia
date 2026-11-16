@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-insomnia2"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS insomnia2 component"
+
+[lib]
+name = "insomnia2"
+path = "src/lib.rs"
