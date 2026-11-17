@@ -3,7 +3,7 @@ name = "SigmaOS-insomnia2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "insomnia2 component"
+description = "Insomnia API client compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
